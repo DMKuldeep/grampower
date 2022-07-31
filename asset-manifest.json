@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grampower/static/css/main.3c703ab8.css",
+    "main.js": "/grampower/static/js/main.5fa37a51.js",
+    "static/js/787.c45cc61a.chunk.js": "/grampower/static/js/787.c45cc61a.chunk.js",
+    "index.html": "/grampower/index.html",
+    "main.3c703ab8.css.map": "/grampower/static/css/main.3c703ab8.css.map",
+    "main.5fa37a51.js.map": "/grampower/static/js/main.5fa37a51.js.map",
+    "787.c45cc61a.chunk.js.map": "/grampower/static/js/787.c45cc61a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c703ab8.css",
+    "static/js/main.5fa37a51.js"
+  ]
+}
